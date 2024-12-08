@@ -1,6 +1,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=58A6FF&center=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Hüseyin+Umut+Kardaş!+%0A+iOS+Developer+%26+Game+Developer+from+Trabzon%2FTurkey" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=58A6FF&center=true&width=500&height=100&lines=Hi+%F0%9F%91%8B+I'm+Hüseyin+Umut+Kardaş!" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&height=30&lines=iOS+Developer+%26+Game+Developer+from+Trabzon%2FTurkey" alt="Typing SVG" />
   </a>
 </p>
 
