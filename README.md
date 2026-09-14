@@ -4,11 +4,13 @@
 
 </div>
 
-Unity gameplay developer, four years across four studios. **13 shipped titles** on iOS, Android and Steam — two of them past **100M downloads** and still live. Driving feel, Match-3 boards, level tooling and the mobile memory budget it all has to fit inside.
+Unity developer since 2022. I've worked on 13 shipped titles at Silevel Games, Surreel Studio, No Surrender and Pointless Interactive, across iOS, Android and Steam.
 
-I write the server half too. On *No Surrender Heroes* that meant WebSocket matchmaking, bot assignment and progression systems in Node.js and TypeScript.
+Most of that time went to the Mountain Climb driving series at Silevel — vehicle handling, the level editor the content is built in, and keeping the whole thing inside a mobile memory budget. The series is past 200M downloads.
 
-**[▶ Play Mountain Climb: Stunt in your browser](https://poki.com/en/g/mountain-climb-stunt)** — the fastest way to see what I actually build.
+I do the server side too. On *No Surrender Heroes* that was WebSocket matchmaking, bot assignment and progression, in Node.js and TypeScript.
+
+[Mountain Climb: Stunt](https://poki.com/en/g/mountain-climb-stunt) runs in the browser if you want to see the driving.
 
 <div align="center">
 
