@@ -50,11 +50,6 @@ Shipped titles are studio products, so they don't live here. What you'll find in
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UmutKardas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutKardas&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" height="160" />
-
-<br/><br/>
-
 <img src="https://raw.githubusercontent.com/UmutKardas/UmutKardas/output/snake.svg" width="98%" alt="Contribution snake" />
 
 <br/>
