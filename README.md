@@ -8,7 +8,7 @@ Unity developer since 2022. I've worked on 13 shipped titles at Silevel Games, S
 
 Most of that time went to the Mountain Climb driving series at Silevel — vehicle handling, the level editor the content is built in, and keeping the whole thing inside a mobile memory budget. The series is past 200M downloads.
 
-I do the server side too. On *No Surrender Heroes* that was WebSocket matchmaking, bot assignment and progression, in Node.js and TypeScript.
+I also write backend services in Node.js and TypeScript.
 
 [Mountain Climb: Stunt](https://poki.com/en/g/mountain-climb-stunt) runs in the browser if you want to see the driving.
 
@@ -30,7 +30,7 @@ Shipped titles are studio products, so they don't live here. What you'll find in
 **🎮 Mechanic studies** — single systems rebuilt from scratch to understand how they actually work.
 [Bridge-Race](https://github.com/UmutKardas/Bridge-Race) · [Roller-Splat](https://github.com/UmutKardas/Roller-Splat) · [Candy-Crush-Saga](https://github.com/UmutKardas/Candy-Crush-Saga) · [Stack-Mechanic](https://github.com/UmutKardas/Stack-Mechanic) · [Runner-Stack](https://github.com/UmutKardas/Runner-Stack) · [Collect-Em-All](https://github.com/UmutKardas/Collect-Em-All) · [Grid-Game](https://github.com/UmutKardas/Grid-Game)
 
-**⚙️ Backend services** — the same stack I use for live-ops, outside a game context.
+**⚙️ Backend services** — REST APIs and service work in Node.js and TypeScript.
 [match-backend](https://github.com/UmutKardas/match-backend) · [anon-diary-api](https://github.com/UmutKardas/anon-diary-api) · [bookflow-api](https://github.com/UmutKardas/bookflow-api)
 
 **📱 iOS apps** — Swift work from before games.
