@@ -1,52 +1,62 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=220&section=header&text=Hüseyin%20Umut%20Kardaş&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Game%20Developer&descSize=16&descAlignY=55&descColor=8b949e" width="100%" />
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/h%C3%BCseyin-umut-karda%C5%9F-a36091238/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kardasumt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://umutkardas.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:7C3AED,100:F97316&height=160&section=header&text=H%C3%BCseyin%20Umut%20Karda%C5%9F&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Unity%20Game%20Developer%20%7C%20Gameplay%20Systems%20and%20Game%20Backend&descSize=15&descAlignY=62&descColor=E2E8F0" width="100%" />
 
-## About Me
+</div>
 
-- 🔭 Backend Developer focused on building scalable APIs & services
-- 🎮 Game Developer with Unity & C# experience
-- 📱 iOS Developer background with Swift
-- 📍 Trabzon, Turkey
+Unity gameplay developer, four years across four studios. **13 shipped titles** on iOS, Android and Steam — two of them past **100M downloads** and still live. Driving feel, Match-3 boards, level tooling and the mobile memory budget it all has to fit inside.
 
-## Tech Stack
+I write the server half too. On *No Surrender Heroes* that meant WebSocket matchmaking, bot assignment and progression systems in Node.js and TypeScript.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb,postgresql,docker&theme=dark" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity,swift,dart,flutter,git&theme=dark" />
-  </a>
-</p>
+**[▶ Play Mountain Climb: Stunt in your browser](https://poki.com/en/g/mountain-climb-stunt)** — the fastest way to see what I actually build.
 
-## GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmutKardas&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=UmutKardas&theme=github-dark-blue&hide_border=true&border_radius=12" height="180" />
-</p>
+<a href="https://umutkardas.github.io/games.html"><img src="https://img.shields.io/badge/13%20shipped%20titles-Portfolio-7C3AED?style=for-the-badge" /></a>
+<a href="https://umutkardas.github.io/assets/HuseyinUmutKardasGame.pdf"><img src="https://img.shields.io/badge/Game%20CV-0D1117?style=for-the-badge" /></a>
+<a href="mailto:kardasumt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/h%C3%BCseyin-umut-karda%C5%9F-a36091238/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutKardas&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8" height="180" />
-</p>
+</div>
 
-## Activity Graph
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmutKardas&theme=github-compact&hide_border=true&radius=12" width="98%" />
-</p>
+### What's in this account
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=120&section=footer" width="100%" />
+Shipped titles are studio products, so they don't live here. What you'll find instead:
+
+**🎮 Mechanic studies** — single systems rebuilt from scratch to understand how they actually work.
+[Bridge-Race](https://github.com/UmutKardas/Bridge-Race) · [Roller-Splat](https://github.com/UmutKardas/Roller-Splat) · [Candy-Crush-Saga](https://github.com/UmutKardas/Candy-Crush-Saga) · [Stack-Mechanic](https://github.com/UmutKardas/Stack-Mechanic) · [Runner-Stack](https://github.com/UmutKardas/Runner-Stack) · [Collect-Em-All](https://github.com/UmutKardas/Collect-Em-All) · [Grid-Game](https://github.com/UmutKardas/Grid-Game)
+
+**⚙️ Backend services** — the same stack I use for live-ops, outside a game context.
+[match-backend](https://github.com/UmutKardas/match-backend) · [anon-diary-api](https://github.com/UmutKardas/anon-diary-api) · [bookflow-api](https://github.com/UmutKardas/bookflow-api)
+
+**📱 iOS apps** — Swift work from before games.
+[CalendarApp](https://github.com/UmutKardas/CalendarApp) · [Starbucks](https://github.com/UmutKardas/Starbucks) · [IMDb](https://github.com/UmutKardas/IMDb) · [InstagramClone](https://github.com/UmutKardas/InstagramClone)
+
+---
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=unity,cs,dotnet,blender&theme=dark" height="42" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb,postgresql,redis,docker&theme=dark" height="42" />
+<img src="https://skillicons.dev/icons?i=swift,flutter,dart,git&theme=dark" height="42" />
+
+`Addressables` `Photon Bolt` `Azure PlayFab` `Firebase` `DOTween` `ECS` `object pooling` `profiling`
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=UmutKardas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutKardas&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" height="160" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/UmutKardas/UmutKardas/output/snake.svg" width="98%" alt="Contribution snake" />
+
+<br/>
+
+📍 Trabzon, Türkiye · [kardasumt@gmail.com](mailto:kardasumt@gmail.com) · [umutkardas.github.io](https://umutkardas.github.io/games.html)
+
+</div>
