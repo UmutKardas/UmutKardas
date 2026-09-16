@@ -37,7 +37,7 @@ Shipped titles are studio products, so they don't live here. What you'll find in
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,blender&theme=dark" height="42" />
-<img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb,postgresql,redis,docker&theme=dark" height="42" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb,postgresql,redis&theme=dark" height="42" />
 <img src="https://skillicons.dev/icons?i=swift,flutter,dart,git&theme=dark" height="42" />
 
 `Addressables` `Photon Bolt` `Azure PlayFab` `Firebase` `DOTween` `ECS` `object pooling` `profiling`
