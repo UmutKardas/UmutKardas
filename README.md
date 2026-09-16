@@ -4,11 +4,7 @@
 
 </div>
 
-Unity developer since 2022. I've worked on 13 shipped titles at Silevel Games, Surreel Studio, No Surrender and Pointless Interactive, across iOS, Android and Steam.
-
-Most of that time went to the Mountain Climb driving series at Silevel — vehicle handling, the level editor the content is built in, and keeping the whole thing inside a mobile memory budget. The series is past 200M downloads.
-
-I also write backend services in Node.js and TypeScript.
+Unity developer since 2022. I've worked on 13 shipped titles at Silevel Games, Surreel Studio, No Surrender and Pointless Interactive, across Poki, iOS, Android and Steam.
 
 [Mountain Climb: Stunt](https://poki.com/en/g/mountain-climb-stunt) runs in the browser if you want to see the driving.
 
